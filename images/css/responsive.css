@@ -1,0 +1,199 @@
+@media(max-width: 738px){
+.mail{
+	display: none;
+}
+/*.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}*/
+
+.bx1{
+	width: 100%;
+}
+.bx2{
+	width: 100%;
+}
+.headbx2{
+ font-size: 36px;
+}
+
+.creativeteambx > div {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+       /* background: red; */
+}
+.mainbooox > div{
+	width: calc(50% - 10px);
+	margin-top: 15px;
+}
+
+
+.mainboox1{
+	width: 100%;
+}
+
+.mainboox4 > div{
+	width: 50%;
+	margin-top: 15px;
+}
+
+}
+@media(max-width: 619px){
+	.menu{
+		display: none;
+		position: absolute;
+		padding: 0;
+    flex-flow: column;
+    right: 0;
+    background: white;
+    left: 0;
+    top: 88px;
+    overflow: hidden;
+
+
+	}
+	.ri-menu-line {
+    display: block!important;
+    font-size: 28px;
+    color: #fd4403;
+    font-weight: bold;
+}
+
+	.servicesbx{
+		text-align: center;
+	}
+	.creativeteambx{
+		    padding-top: 19px;
+	}
+	.yearbox{
+		padding-bottom: 20px;
+		margin: auto;
+	}
+	.parabx2{
+		margin: auto;
+
+	}
+	.header3imgbx{
+		margin: auto;
+	}
+	.mainbox2 > div{
+		width: 100%;
+	}
+	.mainbooox > div{
+		width: 100%;
+
+	}
+	.mainboox4 > div{
+		width: 100%;
+
+	}
+	.mainboox4{
+		text-align: center;
+	}
+	.iconboox{
+		justify-content: center;
+	}
+.menu li {
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    /* margin: 11px 20px; */
+    border-bottom: 2px solid #fd4403;
+}
+}
+@media(max-width: 615px){
+	.headabout{
+		font-size: 70px;
+	}
+}
+@media(max-width: 731px){
+	.const {
+		font-size: 50px;
+	}
+	
+}
+@media(max-width: 615px){
+	.contactbx > div{
+		width: 100%;
+		height: 385px;
+        margin-top: 15px;
+	}
+	.contactbx{
+		padding-top: 10px;
+	}
+	.head4{
+	     padding-top: 37px;
+	     font-size: 35px;
+	}
+}
+@media(max-width: 500px){
+	.footerimgbx div {
+    width: 26%;
+    height: 71px;
+}
+
+}
+@media(max-width: 550px){
+	.image1{
+		width: 100%;
+	}
+	.para1{
+		text-align: center;
+	}
+	.bt{
+		margin: 20px auto;
+	}
+	.sec{
+		padding-top: 35px!important;
+	}
+	.bg1{
+		height: 100vh;
+	}
+	.section{
+		padding-top: 20px;
+	}
+	.bx2 {
+    height: auto;
+}
+.header3{
+	margin-top: 0;
+}
+.headingbox2 {
+  
+    font-size: 22px;
+}
+.mainbooox {
+    padding-top: 20px;
+}
+.headingbox3 {
+    font-size: 24px;
+}
+.menu3 li:nth-child(2) {
+    right: 220px;
+}
+.menu3 li:nth-child(4) {
+    right: 40px;
+    top: 181px;
+}
+.menu3 li:nth-child(5) {
+    right: 227px;
+    top: 221px;
+}
+.headingbox1 {
+ 
+    font-size: 23px;
+   
+}
+.paratext {
+    font-size: 14px;
+    text-align: justify;
+   
+}
+.ri-double-quotes-r {
+  
+    left: 416px;
+   
+}
+}
